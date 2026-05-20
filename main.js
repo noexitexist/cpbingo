@@ -90,3 +90,4 @@ function drawCells(images, startX, startY, w, h, gapX, gapY) {
             ctx.drawImage(images[i], x, y, w, h);
         }
     }
+}
